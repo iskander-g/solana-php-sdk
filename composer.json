@@ -35,7 +35,7 @@
         "php": "~8.2",
         "ext-sodium": "*",
         "guzzlehttp/guzzle": "^7.3",
-        "paragonie/sodium_compat": "^1.17",
+        "paragonie/sodium_compat": "^2.0",
         "stephenhill/base58": "^1.1",
         "vlucas/phpdotenv": "^5.6"
     },
